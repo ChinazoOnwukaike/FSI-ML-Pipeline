@@ -1,0 +1,12 @@
+{
+    "rms_energy": 0.02489182911813259,
+    "spectral_flatness": 0.001273135538212955,
+    "spectral_centroid": 2272.9852205292723,
+    "zero_crossing_rate": 0.1011213370257207,
+    "severity_score": 0.7015255275317648,
+    "strategy": "aggressive",
+    "denoise_strength": 1.0,
+    "enhance_strength": 1.0,
+    "requires_denoising": true,
+    "filename": "Igbo1AU12.mp3"
+}

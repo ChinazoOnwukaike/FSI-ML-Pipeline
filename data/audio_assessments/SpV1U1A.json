@@ -1,0 +1,12 @@
+{
+    "rms_energy": 0.016322823241353035,
+    "spectral_flatness": 0.0006913383840583265,
+    "spectral_centroid": 668.6977933171377,
+    "zero_crossing_rate": 0.04680590644932809,
+    "severity_score": 0.7687572810155284,
+    "strategy": "aggressive",
+    "denoise_strength": 1.0,
+    "enhance_strength": 1.0,
+    "requires_denoising": true,
+    "filename": "SpV1U1A.mp3"
+}

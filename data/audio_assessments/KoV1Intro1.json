@@ -1,0 +1,12 @@
+{
+    "rms_energy": 0.025836044922471046,
+    "spectral_flatness": 0.004014228004962206,
+    "spectral_centroid": 2052.654714469609,
+    "zero_crossing_rate": 0.08503676320768132,
+    "severity_score": 0.7043416608456791,
+    "strategy": "aggressive",
+    "denoise_strength": 1.0,
+    "enhance_strength": 1.0,
+    "requires_denoising": true,
+    "filename": "KoV1Intro1.mp3"
+}
