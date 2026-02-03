@@ -29,7 +29,7 @@ Each module operates independently with clear data contracts.
 
 🟢 **Phase 0 (Audio)** - In progress  
 ⚪ **Phase 0.5 (NLP)** - Not started  
-⚪ **Phase 1 (Alignment)** - Not started
+⚪ **Phase 2 (Alignment)** - Not started
 
 ## Tech Stack
 
